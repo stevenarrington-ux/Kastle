@@ -1,7 +1,7 @@
 
-  # Update visitor traffic chart
+  # Kastle
 
-  This is a code bundle for Update visitor traffic chart. The original project is available at https://www.figma.com/design/IqWYSHHjPg1RDhQUtkRliD/Update-visitor-traffic-chart.
+  This is a code bundle for Kastle. The original project is available at https://www.figma.com/design/IqWYSHHjPg1RDhQUtkRliD/Kastle.
 
   ## Running the code
 
